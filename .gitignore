@@ -1,0 +1,15 @@
+# Linux temporary files
+*~
+.directory
+.Trash-*
+.nfs*
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+
+# Editor files
+.vscode/
+.idea/
